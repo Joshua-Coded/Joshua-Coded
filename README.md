@@ -1,222 +1,227 @@
-# Hi there, I'm Joshua! 👋
-
 <div align="center">
-  <img src="https://github.com/Joshua-Coded.png" alt="Joshua's Profile Picture" width="200" height="200" style="border-radius: 50%;" />
   
-  ### 🔗 Blockchain & Web3 Engineer | Full-Stack Developer | DevOps & M&E Specialist
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Joshua-Coded?style=social)](https://github.com/Joshua-Coded)
-  [![GitHub stars](https://img.shields.io/github/stars/Joshua-Coded?style=social)](https://github.com/Joshua-Coded)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-  
-  📍 **Kigali, Rwanda** | 🌍 **Building the Future of Web3**
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Joshua+Alana!+%F0%9F%91%8B;M%26E+%2F+IT+Consultant+%40+AGRA+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+<img src="https://github.com/Joshua-Coded.png" alt="Joshua's Profile Picture" width="200" height="200" style="border-radius: 50%; border: 4px solid #FFD700;" />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Software+Engineering+Enthusiast+%7C+Blockchain+Engineer;AI%2FML+Specialist+%7C+DevOps+Engineer+%7C+M%26E+Consultant;Transforming+Agri-Food+Systems+Through+Technology+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-alana-5760b3196/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devjosh2023)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devjosh2023)
+[![GitHub followers](https://img.shields.io/github/followers/Joshua-Coded?style=for-the-badge&color=FFD700&labelColor=000000)](https://github.com/Joshua-Coded)
+
+📍 **Kigali, Rwanda** | 🌍 **AGRA - Alliance for a Green Revolution in Africa**
+
 </div>
 
 ---
 
-## 🎯 About Me
+## 🌟 About Me
 
 <div align="center">
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+> ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=%22Turning+tech+into+tools+for+a+better+tomorrow.%22)](https://git.io/typing-svg)
 
-contract JoshuaCoded {
-    string public name = "Joshua";
-    string public role = "Blockchain Engineer";
-    string[] public skills = [
-        "Smart Contracts", "DeFi", "Web3", "Full-Stack", 
-        "DevOps", "Monitoring & Evaluation"
-    ];
+</div>
+
+```javascript
+const joshuaAlana = {
+    currentRole: "M&E / IT Consultant @ AGRA",
+    education: "African Leadership University - Software Engineering Graduate",
+    specialization: "Low-level Engineering & Agricultural Technology",
+    mission: "Transforming agri-food systems through innovative technology solutions",
     
-    mapping(string => bool) public expertise;
+    currentProjects: [
+        "AFS Forum Dashboard Enhancement",
+        "Data Collection & Monitoring Systems", 
+        "AI/ML Agricultural Models",
+        "Blockchain for Supply Chain Transparency"
+    ],
     
-    constructor() {
-        expertise["Solidity"] = true;
-        expertise["JavaScript"] = true;
-        expertise["Python"] = true;
-        expertise["Docker"] = true;
-        expertise["Kubernetes"] = true;
+    impact: {
+        focus: "Sustainable Development & Agricultural Innovation",
+        approach: "Data-driven impact assessment and performance tracking",
+        vision: "Empowering communities through technology"
     }
-    
-    function getCurrentFocus() public pure returns (string memory) {
-        return "Building decentralized solutions for Africa";
-    }
-}
+};
 ```
 
-</div>
+🌱 As a passionate **Software Engineering graduate** transitioning into an **M&E / IT Consultant** role at **AGRA**, I blend technical expertise with a commitment to transforming agri-food systems. With a foundation from **African Leadership University**, where I specialized in **low-level engineering**, I bring hands-on experience in innovative technology solutions and data-driven impact.
 
-> *"Passionate about leveraging blockchain technology and full-stack development to create innovative solutions that drive digital transformation across Africa."*
-
-- 🔥 **Blockchain & Web3 Engineer** specializing in smart contracts and DeFi protocols
-- 💻 **Full-Stack Developer** with expertise in modern web technologies  
-- ⚙️ **DevOps Engineer** focused on CI/CD, containerization, and cloud infrastructure
-- 📊 **Monitoring & Evaluation Engineer** ensuring project success through data-driven insights
-- 🎓 **ALX Africa Software Engineering Graduate**
-- 🌱 Currently exploring **Layer 2 solutions** and **Cross-chain protocols**
+🌐 **Professional Journey:** Currently supporting AGRA's AFS Forum by managing data collection, monitoring program implementation, and enhancing digital platforms. My background includes developing **AI, machine learning, and blockchain solutions**, alongside crafting scalable software architectures, reflecting my drive to solve real-world challenges.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 Technical Arsenal
 
-<div align="center">
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🔗 Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Truffle](https://img.shields.io/badge/Truffle-5E4692?style=for-the-badge&logo=truffle&logoColor=white)
 
 ### 💻 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🗄️ Databases
+### 🔧 DevOps Tools & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🗄️ Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 📊 M&E & Analytics Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📈 Live GitHub Analytics
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Joshua-Coded&theme=golden&border_radius=20&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joshua-Coded&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=20&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Coded&layout=compact&langs_count=8&theme=dark&border_radius=20&title_color=FFD700&text_color=ffffff&bg_color=0d1117"/>
+
+[![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Coded&theme=github-compact&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics & Contribution Streak
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joshua-Coded&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Coded&layout=compact&langs_count=8&theme=tokyonight&border_radius=20"/>
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Joshua-Coded&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-  
-  [![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Coded&theme=tokyo-night&border_radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
----
-
-## 🎯 Current Blockchain Focus
+## 🎯 Current Focus & Impact
 
 <div align="center">
 
 ```typescript
-interface BlockchainEngineer {
-  name: string;
-  currentProjects: string[];
-  technologies: Technologies;
-  goals: string[];
+interface AgraConsultant {
+  organization: string;
+  role: string;
+  currentInitiatives: string[];
+  technicalFocus: string[];
+  impactAreas: string[];
 }
 
-interface Technologies {
-  blockchain: string[];
-  frameworks: string[];
-  tools: string[];
-}
-
-const joshua: BlockchainEngineer = {
-  name: "Joshua-Coded",
-  currentProjects: [
-    "DeFi Protocols",
-    "Smart Contract Auditing",
-    "Web3 dApps",
-    "Cross-chain Solutions"
+const currentWork: AgraConsultant = {
+  organization: "AGRA - Alliance for a Green Revolution in Africa",
+  role: "M&E / IT Consultant",
+  currentInitiatives: [
+    "AFS Forum Dashboard Enhancement",
+    "Data Collection Systems Implementation", 
+    "Digital Platform Optimization",
+    "Program Impact Monitoring"
   ],
-  technologies: {
-    blockchain: ["Ethereum", "Polygon", "Solana", "Arbitrum"],
-    frameworks: ["Hardhat", "Truffle", "OpenZeppelin", "Web3.js"],
-    tools: ["MetaMask", "Remix", "Ganache", "IPFS"]
-  },
-  goals: [
-    "Build scalable DeFi solutions",
-    "Contribute to Web3 ecosystem in Africa",
-    "Master Layer 2 technologies",
-    "Develop secure smart contracts"
+  technicalFocus: [
+    "AI/ML Models for Agricultural Analytics",
+    "Blockchain Supply Chain Solutions",
+    "Scalable Software Architectures",
+    "Data-Driven Impact Assessment"
+  ],
+  impactAreas: [
+    "Sustainable Agricultural Development",
+    "Community Empowerment Through Technology",
+    "Food Security & Innovation",
+    "Performance Tracking & Optimization"
   ]
 };
 ```
 
 </div>
 
+### 🌍 Vision & Impact Goals
+
+- 🚀 **Leveraging technology for sustainable development** and agricultural innovation
+- 📊 **Creating data-driven solutions** for impact assessment and performance tracking  
+- 🤝 **Empowering communities** through accessible technology solutions
+- 🌱 **Advancing agri-food systems** for food security and economic growth
+- 🔗 **Building blockchain solutions** for supply chain transparency and farmer empowerment
+
 ---
 
-## 🔗 Blockchain Development Stats
+## 🏆 Professional Achievements
 
 <div align="center">
 
-| 📊 **Metric** | 🔢 **Value** |
-|:---:|:---:|
-| **Total Repositories** | 312 |
-| **GitHub Stars** | 329+ |
-| **Commits This Year** | 2,124+ |
-| **Languages Mastered** | 8+ |
-| **Active Projects** | 6+ |
+🎓 **African Leadership University** - Software Engineering Graduate  
+🌱 **AGRA M&E/IT Consultant** - Transforming Agricultural Systems  
+🔗 **Blockchain Solutions Architect** - Supply Chain Innovation  
+🤖 **AI/ML Specialist** - Agricultural Technology Applications  
+⚙️ **DevOps Engineer** - Scalable Infrastructure Solutions  
+📊 **Data Analytics Expert** - Impact Measurement & Evaluation
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-🎓 **ALX Africa Software Engineering Graduate**  
-🔗 **Blockchain Development Specialist**  
-⚙️ **DevOps Engineering Certified**  
-📊 **Monitoring & Evaluation Professional**  
-🌍 **Open Source Contributor** (329+ GitHub Stars)  
-🏆 **2,124+ Contributions in the Last Year**
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Eager+to+connect+with+professionals+in%3A;Agri-Tech+%7C+AI%2FML+%7C+Blockchain+%7C+Development;Let's+drive+innovation+and+sustainability+together!)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.alana@agra.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-alana-5760b3196/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devjosh2023)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devjosh2023)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshuaalana.dev)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-  
-</div>
 
----
+### 🌟 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=%22Turning+tech+into+tools+for+a+better+tomorrow.%22)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  ### 🔗 *"The future of finance is decentralized, and I'm here to build it"*
-  
-  **Thanks for visiting my profile! Let's revolutionize Web3 together! 🚀**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Joshua-Coded&color=brightgreen&style=flat-square&label=Profile+Views)
-  
+**Thanks for visiting! Let's build sustainable solutions together! 🚀🌍**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Joshua-Coded&color=FFD700&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -224,11 +229,21 @@ const joshua: BlockchainEngineer = {
 <div align="center">
 
 ```
-    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-    █ ┌─┐┬ ┬┌─┐┬┌┐┌  ┬ ┬┌─┐┬─┐┬┌─┌─┐  ┌─┐┬─┐┌─┐┌┬┐  ┬─┐┬ ┬┌─┐┌┐┌┌┬┐┌─┐ █
-    █ │  ├─┤├─┤││││  ├─┤│ │├┬┘├┴┐└─┐  ├┤ ├┬┘│ ││││  ├┬┘│││├─┤│││ ││├─┤ █
-    █ └─┘┴ ┴┴ ┴┴┘└┘  ┴ ┴└─┘┴└─┴ ┴└─┘  └  ┴└─└─┘┴ ┴  ┴└─└┴┘┴ ┴┘└┘─┴┘┴ ┴ █
-    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ████████╗███████╗ ██████╗██╗  ██╗    ███████╗ ██████╗ ██████╗             ║
+║  ╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝██╔═══██╗██╔══██╗            ║
+║     ██║   █████╗  ██║     ███████║    █████╗  ██║   ██║██████╔╝            ║
+║     ██║   ██╔══╝  ██║     ██╔══██║    ██╔══╝  ██║   ██║██╔══██╗            ║
+║     ██║   ███████╗╚██████╗██║  ██║    ██║     ╚██████╔╝██║  ██║            ║
+║     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝            ║
+║                                                                              ║
+║           ███████╗██╗   ██╗███████╗████████╗ █████╗ ██╗███╗   ██╗           ║
+║           ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔══██╗██║████╗  ██║           ║
+║           ███████╗██║   ██║███████╗   ██║   ███████║██║██╔██╗ ██║           ║
+║           ╚════██║██║   ██║╚════██║   ██║   ██╔══██║██║██║╚██╗██║           ║
+║           ███████║╚██████╔╝███████║   ██║   ██║  ██║██║██║ ╚████║           ║
+║           ╚══════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
