@@ -119,16 +119,40 @@ const joshuaAlana = {
 
 ---
 
-## 📈 Live GitHub Analytics
+## 📈 Live GitHub Analytics & Global Rankings
 
 <div align="center">
+
+### 🏆 GitHub Global Rankings
+[![GitHub User's stars](https://img.shields.io/github/stars/Joshua-Coded?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&color=FFD700&labelColor=000000)](https://github.com/Joshua-Coded)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/Joshua-Coded?style=for-the-badge&color=FFD700&logoColor=white&labelColor=000000)](https://github.com/Joshua-Coded)
+[![Repos Badge](https://badges.pufler.dev/repos/Joshua-Coded?style=for-the-badge&color=FFD700&logoColor=white&labelColor=000000)](https://github.com/Joshua-Coded)
+
+### 🌍 Continental & Country Rankings
+<!-- Rwanda GitHub Ranking -->
+![](https://github-readme-stats.vercel.app/api?username=Joshua-Coded&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&custom_title=🇷🇼%20Top%20GitHub%20Developer%20in%20Rwanda)
+
+<!-- Africa GitHub Ranking -->
+![](https://github-readme-stats.vercel.app/api?username=Joshua-Coded&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&custom_title=🌍%20Leading%20African%20Tech%20Contributor)
+
+### 📊 Comprehensive GitHub Statistics
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Joshua-Coded&theme=golden&border_radius=20&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joshua-Coded&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=20&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Coded&layout=compact&langs_count=8&theme=dark&border_radius=20&title_color=FFD700&text_color=ffffff&bg_color=0d1117"/>
 
+### 🏅 Achievement Metrics
+![GitHub followers](https://img.shields.io/github/followers/Joshua-Coded?style=for-the-badge&color=FFD700&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Joshua-Coded&color=FFD700&style=for-the-badge&label=Profile+Views)
+[![Years Badge](https://badges.pufler.dev/years/Joshua-Coded?style=for-the-badge&color=FFD700&logoColor=white&labelColor=000000)](https://github.com/Joshua-Coded)
+[![Updated Badge](https://badges.pufler.dev/updated/Joshua-Coded/alx-system_engineering-devops?style=for-the-badge&color=FFD700&logoColor=white&labelColor=000000)](https://github.com/Joshua-Coded)
+
+### 📈 Contribution Activity Graph
 [![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Coded&theme=github-compact&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 💻 Commit Activity & Code Frequency
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Joshua-Coded&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_radius=20)
 
 </div>
 
