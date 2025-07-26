@@ -2,7 +2,7 @@
   
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Joshua+Alana!+%F0%9F%91%8B;M%26E+%2F+IT+Consultant+%40+AGRA+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-  <img src="https://github.com/Joshua-Coded.png" alt="Joshua's Profile Picture" width="300" height="300" style="border-radius: 50%; border: 5px solid #FFD700; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.3);" />
+  <img src="https://github.com/Joshua-Coded.png" alt="Joshua's Profile Picture" width="510" height="300" style="border-radius: 20px; border: 5px solid #FFD700; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.3);" />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Software+Engineering+Enthusiast+%7C+Blockchain+Engineer;AI%2FML+Specialist+%7C+DevOps+Engineer+%7C+M%26E+Consultant;Transforming+Agri-Food+Systems+Through+Technology+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
