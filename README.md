@@ -25,31 +25,42 @@
 
 </div>
 
-```javascript
-const joshuaAlana = {
-    currentRole: "M&E / IT Consultant @ AGRA",
-    education: "African Leadership University - Software Engineering Graduate",
-    specialization: "Low-level Engineering & Agricultural Technology",
-    mission: "Transforming agri-food systems through innovative technology solutions",
-    
-    currentProjects: [
-        "AFS Forum Dashboard Enhancement",
-        "Data Collection & Monitoring Systems", 
-        "AI/ML Agricultural Models",
-        "Blockchain for Supply Chain Transparency"
-    ],
-    
-    impact: {
-        focus: "Sustainable Development & Agricultural Innovation",
-        approach: "Data-driven impact assessment and performance tracking",
-        vision: "Empowering communities through technology"
-    }
-};
-```
+<div align="center">
 
-🌱 As a passionate **Software Engineering graduate** transitioning into an **M&E / IT Consultant** role at **AGRA**, I blend technical expertise with a commitment to transforming agri-food systems. With a foundation from **African Leadership University**, where I specialized in **low-level engineering**, I bring hands-on experience in innovative technology solutions and data-driven impact.
+![Education](https://img.shields.io/badge/🎓_Education-African_Leadership_University-FFD700?style=for-the-badge&logoColor=black)
+![Role](https://img.shields.io/badge/🌱_Current_Role-M%26E_IT_Consultant_@_AGRA-FFD700?style=for-the-badge&logoColor=black)
+![Specialization](https://img.shields.io/badge/⚙️_Specialization-Low--level_Engineering-FFD700?style=for-the-badge&logoColor=black)
 
-🌐 **Professional Journey:** Currently supporting AGRA's AFS Forum by managing data collection, monitoring program implementation, and enhancing digital platforms. My background includes developing **AI, machine learning, and blockchain solutions**, alongside crafting scalable software architectures, reflecting my drive to solve real-world challenges.
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎯 **Professional Journey**
+🌱 **Software Engineering graduate** transitioning into **M&E / IT Consultant** at **AGRA**
+
+🏛️ **African Leadership University** foundation with **low-level engineering** specialization
+
+💡 Hands-on experience in **innovative technology solutions** and **data-driven impact**
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **Current Impact**
+🌾 Supporting **AGRA's AFS Forum** with data collection and monitoring
+
+💻 Enhancing **digital platforms** and program implementation
+
+🤖 Developing **AI, ML, and blockchain solutions** with scalable architectures
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
