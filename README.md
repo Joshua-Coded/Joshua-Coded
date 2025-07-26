@@ -158,52 +158,55 @@ const joshuaAlana = {
 
 ---
 
-## 🎯 Current Focus & Impact
+## 🎯 Current Focus & Impact at AGRA
 
 <div align="center">
 
-```typescript
-interface AgraConsultant {
-  organization: string;
-  role: string;
-  currentInitiatives: string[];
-  technicalFocus: string[];
-  impactAreas: string[];
-}
+<table>
+<tr>
+<td width="33%" align="center">
 
-const currentWork: AgraConsultant = {
-  organization: "AGRA - Alliance for a Green Revolution in Africa",
-  role: "M&E / IT Consultant",
-  currentInitiatives: [
-    "AFS Forum Dashboard Enhancement",
-    "Data Collection Systems Implementation", 
-    "Digital Platform Optimization",
-    "Program Impact Monitoring"
-  ],
-  technicalFocus: [
-    "AI/ML Models for Agricultural Analytics",
-    "Blockchain Supply Chain Solutions",
-    "Scalable Software Architectures",
-    "Data-Driven Impact Assessment"
-  ],
-  impactAreas: [
-    "Sustainable Agricultural Development",
-    "Community Empowerment Through Technology",
-    "Food Security & Innovation",
-    "Performance Tracking & Optimization"
-  ]
-};
-```
+### 🚀 **Current Projects**
+![Projects](https://img.shields.io/badge/Active_Projects-4-FFD700?style=for-the-badge&logo=rocket&logoColor=black)
+
+🌾 **AFS Forum Dashboard**  
+📊 **Data Collection Systems**  
+💻 **Digital Platform Optimization**  
+📈 **Program Impact Monitoring**
+
+</td>
+<td width="33%" align="center">
+
+### 🔧 **Tech Focus**
+![Tech](https://img.shields.io/badge/Technologies-AI%2FML%20%7C%20Blockchain-FFD700?style=for-the-badge&logo=cpu&logoColor=black)
+
+🤖 **AI/ML Agricultural Analytics**  
+🔗 **Blockchain Supply Chain**  
+⚙️ **Scalable Architectures**  
+📊 **Data-Driven Assessment**
+
+</td>
+<td width="33%" align="center">
+
+### 🌍 **Impact Areas**
+![Impact](https://img.shields.io/badge/Impact_Focus-Agriculture%20%7C%20Tech-FFD700?style=for-the-badge&logo=globe&logoColor=black)
+
+🌱 **Sustainable Agriculture**  
+🤝 **Community Empowerment**  
+🍽️ **Food Security Innovation**  
+📈 **Performance Optimization**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🌍 Vision & Impact Goals
+<div align="center">
 
-- 🚀 **Leveraging technology for sustainable development** and agricultural innovation
-- 📊 **Creating data-driven solutions** for impact assessment and performance tracking  
-- 🤝 **Empowering communities** through accessible technology solutions
-- 🌱 **Advancing agri-food systems** for food security and economic growth
-- 🔗 **Building blockchain solutions** for supply chain transparency and farmer empowerment
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Building+tech+solutions+for+sustainable+agriculture;Empowering+African+farmers+through+innovation;Creating+data-driven+impact+in+agri-food+systems)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
