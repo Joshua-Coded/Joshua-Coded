@@ -30,21 +30,21 @@ const joshua = {
 
 ## ⚙️ Engineering Path — From the Metal Up
 
-```
-🔩  Assembly        →  Registers, memory addressing, CPU instructions
-⬇️
-🧱  C               →  Pointers, manual memory, OS interfaces
-⬇️
-🛠️  C++ / Systems   →  Data structures, concurrency, performance engineering
-⬇️
-🐍  Python / Java   →  Algorithms, data engineering, ML foundations
-⬇️
-🌐  TypeScript / JS →  Full-stack, APIs, scalable web systems
-⬇️
-⛓️  Solidity / Web3 →  Smart contracts, blockchain architecture, DeFi
-⬇️
-🤖  AI / ML         →  TensorFlow, PyTorch, agricultural analytics
-```
+| Level | Language / Domain | What I Learned |
+|:---:|---|---|
+| 🔩 | **Assembly** | Registers, memory addressing, CPU instructions |
+| ⬇️ | | |
+| 🧱 | **C** | Pointers, manual memory management, OS interfaces |
+| ⬇️ | | |
+| 🛠️ | **C++ / Systems** | Data structures, concurrency, performance engineering |
+| ⬇️ | | |
+| 🐍 | **Python / Java** | Algorithms, data engineering, ML foundations |
+| ⬇️ | | |
+| 🌐 | **TypeScript / JS** | Full-stack, APIs, scalable web systems |
+| ⬇️ | | |
+| ⛓️ | **Solidity / Web3** | Smart contracts, blockchain architecture, DeFi |
+| ⬇️ | | |
+| 🤖 | **AI / ML** | TensorFlow, PyTorch, agricultural analytics |
 
 > *"Understanding the machine from the ground up changes how you think at every layer above it."*
 
