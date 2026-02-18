@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:C0392B&height=200&section=header&text=Joshua%20Alana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Educator%20%7C%20Builder&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:C0392B&height=200&section=header&text=Joshua%20Alana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Blockchain%20Educator%20%7C%20Builder&descAlignY=60&descSize=20" />
 
 </div>
 
@@ -21,10 +21,32 @@
 const joshua = {
   build:  "M&E / IT Consultant @ AGRA 🌱  — tech for sustainable agriculture",
   teach:  "Blockchain Educator @ ALU 🎓  — shaping the next wave of African tech leaders",
-  stack:  ["TypeScript", "Python", "Solidity", "React", "Node.js", "AWS"],
+  roots:  "Started from the metal up: Assembly → C → Systems → Web3 🔩",
   now:    "Where the classroom meets the codebase 🚀"
 };
 ```
+
+---
+
+## ⚙️ Engineering Path — From the Metal Up
+
+```
+🔩  Assembly        →  Registers, memory addressing, CPU instructions
+⬇️
+🧱  C               →  Pointers, manual memory, OS interfaces
+⬇️
+🛠️  C++ / Systems   →  Data structures, concurrency, performance engineering
+⬇️
+🐍  Python / Java   →  Algorithms, data engineering, ML foundations
+⬇️
+🌐  TypeScript / JS →  Full-stack, APIs, scalable web systems
+⬇️
+⛓️  Solidity / Web3 →  Smart contracts, blockchain architecture, DeFi
+⬇️
+🤖  AI / ML         →  TensorFlow, PyTorch, agricultural analytics
+```
+
+> *"Understanding the machine from the ground up changes how you think at every layer above it."*
 
 ---
 
@@ -51,32 +73,24 @@ const joshua = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
-
----
-
-## 🌍 What I'm Working On
-
-| 🌱 At AGRA | 🎓 At ALU |
-|---|---|
-| Blockchain solutions for agriculture | Teaching Blockchain & Web3 |
-| AI/ML for agricultural analytics | Mentoring the next African tech generation |
-| Data systems & M&E platforms | Building real-world simulations & curricula |
 
 ---
 
@@ -86,6 +100,6 @@ const joshua = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Joshua-Coded&color=0969DA&style=flat-square)
 
-**Building at the intersection of code, agriculture, and education. From Rwanda 🇷🇼 with purpose.**
+**Building at the intersection of systems, blockchain, agriculture, and education. From Rwanda 🇷🇼 with purpose.**
 
 </div>
